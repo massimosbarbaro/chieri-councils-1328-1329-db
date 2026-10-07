@@ -1,0 +1,48 @@
+"Elenco","Dominus","Nome","Cognome","Ammende"
+"1","False","Albertinus","Balbus","e"
+"2","False","Perinus","Balbus","b, c"
+"3","False","Peronus","Bertonus","b, c, d"
+"4","False","Guidotinus","Bovetus","d"
+"5","False","Nicholotus de","Ysto","a, b, c, d"
+"6","False","Cornetus","Simionus","c, e"
+"7","True","Obertinus","Costa","b"
+"8","False","Ardicio","Costa","d"
+"9","False","Milo","Caracius",
+"10","False","Iacobus","Raschierius",
+"11","False","Perinus","Gruatus","e"
+"12","False","Bartolomeus","Gruatus","e"
+"13","False","Ubertetus","Pullolius",
+"14","True","Papenianus de","Pasquerio",
+"15","True","Conradinus de","Corneto",
+"16","False","Petrus","Valens","a, d, e"
+"17","False","Bartolomeus","Merlo","b"
+"18","True","Ubertus","Gribaudus",
+"19","False","Guydetus","Ratus","b, d"
+"20","True","Urietus","Gribaudus",
+"21","False","Thomazotus de","Orbezorio","e"
+"22","False","Albertinus","Dodelius","b, e"
+"23","False","Nicholinus","Patritus","a, b, c, d"
+"24","False","Bertotus","Faber","c, d"
+"25","False","Iohanninus de","Russignolio","b"
+"26","False","Oddonus","Guaschus","b, c"
+"27","False","Niger de","Paytoldo","a, b, c, d, e"
+"28","False","Guydetus","Salamonus","e"
+"29","False","Henricus","Scutinus","e"
+"30","False","Franceschus de","Marcadillo",
+"31","False","Thomaynus","Tana","b"
+"32","False","Bartolomeus","Capaster",
+"33","False","Iacobinus","Bernardus",
+"34","False","Oddonus","Blanchus",
+"35","False","Martinus","Alamanus","b, d"
+"36","False","Milo de","Podio","a, e"
+"37","False","Petrus","Vandonus","c, d"
+"38","True","Guydo","Mayacius",
+"39","False","Iacobus de","Gerbo",
+"40","False","Guydotinus","Buschetus",
+"41","False","Obertinus","Richus",
+"42","False","Matheus de","Tagloto","b"
+"43","False","Henrietus","Calozanus","d, e"
+"44","False","Iordanus","Frexius","e"
+"45","False","Dominicus","Costa","e"
+"46","False","Melanus","Bencius","d"
+"47","True","Hurietus","Pometus",

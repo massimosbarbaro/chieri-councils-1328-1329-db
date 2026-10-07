@@ -1,0 +1,28 @@
+{
+  "title": "Chieri 1328–1329: councils, sapienti and notaries of the commune (db, 1998)",
+  "upload_type": "dataset",
+  "publication_date": "1998-06-22",
+  "description": "<p><em>I consigli, i sapienti e i notai del comune di Chieri nel 1328–1329</em></p><p>A prosopographical database of the political personnel of the commune of Chieri (Piedmont) in the year 1328–1329. It records the members of the major council (maggior consiglio), of the added council (consiglio aggiunto) and of the council of the forty-six sapienti, the sapienti elected month by month, and the notaries of the commune with the length of their office and the person who elected them. Saved queries and reports find the people who sat in more than one council, the notaries who were also councillors, the absences from the councils and the grouping of members by family.</p><p>Sources: Data entered from the printed edition: Brezzi, Paolo, ed. 1937. Gli Ordinati del Comune di Chieri. 1328–1329. Torino: Regia Deputazione Subalpina di Storia Patria.</p><p>Database designed and compiled by Massimo Sbarbaro in 1998.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "medieval history",
+    "prosopography",
+    "Chieri",
+    "Piedmont",
+    "communal councils",
+    "notaries",
+    "database"
+  ],
+  "version": "1998",
+  "language": "eng",
+  "references": [
+    "Brezzi, Paolo, ed. 1937. Gli Ordinati del Comune di Chieri. 1328–1329. Torino: Regia Deputazione Subalpina di Storia Patria."
+  ],
+  "notes": "Database compiled 1998."
+}
