@@ -1,5 +1,7 @@
 # Chieri 1328–1329: councils, sapienti and notaries of the commune
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23207782.svg)](https://doi.org/10.5281/zenodo.23207782)
+
 *I consigli, i sapienti e i notai del comune di Chieri nel 1328–1329*
 
 **db** · 1998 · version 1998  
@@ -39,7 +41,7 @@ The tables are flat lists without keys: people are linked across councils by mat
 
 ## How to cite
 
-> Sbarbaro, Massimo. 1998. *Chieri 1328–1329: councils, sapienti and notaries of the commune*. Dataset (db, 1998), version 1998. Zenodo.
+> Sbarbaro, Massimo. 1998. *Chieri 1328–1329: councils, sapienti and notaries of the commune*. Dataset (db, 1998), version 1998. Zenodo. https://doi.org/10.5281/zenodo.23207782.
 
 ## License
 
